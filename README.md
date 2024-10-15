@@ -1,7 +1,7 @@
 # SICI
 SICI is a simple interest and compound interest calculator.
 
-When you run the code,
+When you run the code, 
 a dialog box appears and asks for SI or CI by buttons
 » Simple interest which is (S)
 » Compound Interest which is (C)
